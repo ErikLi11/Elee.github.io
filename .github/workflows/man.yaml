@@ -26,6 +26,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          repository-name: ErikLi11/Elee.github.io
+          repository-name: ErikLi11/ErikLi11.github.io
           branch: doc          
           folder: public
